@@ -26,7 +26,7 @@ Customer Personality Analysis (Marketing Campaign Dataset)
 ## 📁 Files Included
 - marketing_campaign.csv
 - cleaned_marketing_campaign.csv
-- Data_Cleaning.ipynb
+- Cleaned_data.ipynb
 
 ## 📈 Outcome
 The cleaned dataset is ready for:
