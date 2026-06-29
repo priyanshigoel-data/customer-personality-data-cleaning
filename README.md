@@ -8,6 +8,13 @@ Clean and preprocess the Customer Personality Analysis dataset using Python and 
 - Pandas
 - Jupyter Notebook
 
+## Skills Demonstrated
+- Data Cleaning
+- Data Preprocessing
+- Missing Value Handling
+- Data Validation
+- Data Transformation
+- 
 ## 📂 Dataset
 Customer Personality Analysis (Marketing Campaign Dataset)
 
